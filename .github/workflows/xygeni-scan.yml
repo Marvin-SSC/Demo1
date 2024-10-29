@@ -27,3 +27,4 @@ jobs:
           xygeni_url: https://api.xygeni.io
           token: ${{ secrets.XY_TOKEN_PRO_TRIAL3 }}
           gh_token: ${{ secrets.GH_PAT }}
+          command: scan --include-collaborators --never-fail
