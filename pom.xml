@@ -85,12 +85,19 @@
             <scope>provided</scope>
         </dependency>
 
-            
+            <!-- Quito la 2.5.1 y dejo la 5.0.4 xq la 2 tarda bastante
         <dependency>
             <groupId>com.jgeppert.struts2.bootstrap</groupId>
             <artifactId>struts2-bootstrap-plugin</artifactId>
             <version>2.5.1</version>
         </dependency>
+             -->
+
+             <dependency>
+    <groupId>com.jgeppert.struts2.bootstrap</groupId>
+    <artifactId>struts2-bootstrap-plugin</artifactId>
+    <version>5.0.4</version>
+</dependency>
 
 
         <dependency>
