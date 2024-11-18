@@ -99,8 +99,13 @@
             <version>${struts2.version}</version>
         </dependency>
 
+                 <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-entitymanager</artifactId>
+            <version>5.6.15.Final</version>
+        </dependency>
              
-<!--  Estas del hibernate tardar mogollon  dejo la de (hibernate-entitymanager) ??                
+<!--  Estas del hibernate tardar mogollon. La de (hibernate-entitymanager) si la quito desaparecen los reachables                
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
