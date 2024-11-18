@@ -97,12 +97,13 @@
         </dependency>
 <!-- -->
 
+<!-- este tarda             
         <dependency>
             <groupId>org.apache.struts</groupId>
             <artifactId>struts2-spring-plugin</artifactId>
             <version>${struts2.version}</version>
         </dependency>
-
+-->
 
                      <dependency>
             <groupId>org.hibernate</groupId>
