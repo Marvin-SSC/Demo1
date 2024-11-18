@@ -17,13 +17,13 @@
 
     <dependencies>
 
-<!--
+
         <dependency>
             <groupId>org.apache.struts</groupId>
             <artifactId>struts2-core</artifactId>
             <version>${struts2.version}</version>
         </dependency>
--->
+
         <dependency>
             <groupId>org.apache.struts</groupId>
             <artifactId>struts2-config-browser-plugin</artifactId>
@@ -83,7 +83,7 @@
             <scope>provided</scope>
         </dependency>
 
-<!--             
+          
         <dependency>
             <groupId>com.jgeppert.struts2.bootstrap</groupId>
             <artifactId>struts2-bootstrap-plugin</artifactId>
@@ -117,7 +117,7 @@
             <artifactId>hibernate-annotations</artifactId>
             <version>3.4.0.GA</version>
         </dependency>
--->
+
              
         <dependency>
             <groupId>commons-codec</groupId>
