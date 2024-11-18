@@ -39,13 +39,7 @@
         </dependency>
 -->
 
-<!-- LGV -->             
-<dependency>
-    <groupId>org.dom4j</groupId>
-    <artifactId>dom4j</artifactId>
-    <version>2.0.3</version>
-</dependency>
-<!-- LGV -->           
+                 
              
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
@@ -123,12 +117,23 @@
             <version>3.4.0.GA</version>
         </dependency>
 
-
+<!--
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-annotations</artifactId>
-            <version>3.4.0.GA</version>
+            <version>3.4.0.GA</version>  
         </dependency>
+-->
+
+<!-- LGV -->                
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-annotations</artifactId>
+    <version>3.5.6-Final</version>
+</dependency>
+<!-- LGV -->   
+
+             
 <!-- -->
              
         <dependency>
