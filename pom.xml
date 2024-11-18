@@ -96,13 +96,15 @@
             <artifactId>struts2-spring-plugin</artifactId>
             <version>${struts2.version}</version>
         </dependency>
--->
+
              
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
             <version>3.3.1.GA</version>
         </dependency>
+
+-->
 
         <dependency>
             <groupId>org.hibernate</groupId>
