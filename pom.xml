@@ -99,13 +99,8 @@
             <version>${struts2.version}</version>
         </dependency>
 
-             <dependency>
-            <groupId>org.hibernate</groupId>
-            <artifactId>hibernate-entitymanager</artifactId>
-            <version>3.4.0.GA</version>
-        </dependency>
              
-<!--  Estas del hibernate tardar mogollon  dejo la de arriba (hibernate-entitymanager)                
+<!--  Estas del hibernate tardar mogollon  dejo la de (hibernate-entitymanager) ??                
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
