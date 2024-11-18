@@ -38,6 +38,8 @@
             <scope>test</scope>
         </dependency>
 -->
+
+
              
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
@@ -101,7 +103,7 @@
             <version>${struts2.version}</version>
         </dependency>
 
-<!--             
+<!--  -->           
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
@@ -121,7 +123,7 @@
             <artifactId>hibernate-annotations</artifactId>
             <version>3.4.0.GA</version>
         </dependency>
--->
+<!-- -->
              
         <dependency>
             <groupId>commons-codec</groupId>
