@@ -103,7 +103,7 @@
             <version>${struts2.version}</version>
         </dependency>
 
-<!--        
+<!--  Estas del hibernate tardar mogollon      
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
