@@ -1,0 +1,19 @@
+node-gyp@~3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/node-gyp/-/node-gyp-3.0.3.tgz#9b004219f4fa9efbfd78c5fc674aa12e58fb8694"
+  integrity sha1-mwBCGfT6nvv9eMX8Z0qhLlj7hpQ=
+  dependencies:
+    fstream "^1.0.0"
+    glob "3 || 4"
+    graceful-fs "^4.1.2"
+    minimatch "1"
+    mkdirp "^0.5.0"
+    nopt "2 || 3"
+    npmlog "0 || 1"
+    osenv "0"
+    path-array "^1.0.0"
+    request "2"
+    rimraf "2"
+    semver "2.x || 3.x || 4 || 5"
+    tar "^1.0.0"
+    which "1"
